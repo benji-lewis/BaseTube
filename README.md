@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: (C) 2024 Ben Lewis <oss@benjilewis.dev>
+
+SPDX-License-Identifier: CC0-1.0
+-->
+
 # BaseTube
 
 ## The Idea
